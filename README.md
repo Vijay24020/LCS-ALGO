@@ -35,6 +35,4 @@ public static void main(String[] args)
 								lcs.lcs( X, Y, m, n ) );
 }
 
-}
 
-// This Code is Contributed by Saket Kumar
